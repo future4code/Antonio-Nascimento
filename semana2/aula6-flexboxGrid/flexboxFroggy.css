@@ -1,0 +1,102 @@
+Antônio Augusto Penha do Nascimento - FlexBox Froggy
+
+1. justify-content: flex-end;
+
+2. justify-content: center;
+
+3. justify-content: space-around;
+
+4. justify-content: space-between;
+
+5. align-items: flex-end
+
+6. align-items: center;
+justify-content: center;
+
+7. align-items: flex-end;
+justify-content: space-around;
+
+8. flex-direction: row-reverse;
+
+9. flex-direction: column;
+
+10. flex-direction: row-reverse;
+justify-content: flex-end;
+
+11. flex-direction: column;
+justify-content: flex-end;
+
+12. flex-direction: column-reverse;
+justify-content: space-between;
+
+13. align-items: flex-end;
+flex-direction: row-reverse;
+justify-content: center;
+
+14. order: 3;
+
+15. order: -1;
+
+16. align-self: flex-end;
+
+17. order: 1;
+align-self: flex-end;
+
+18. flex-wrap: wrap;
+
+19. flex-wrap: wrap;
+flex-direction: column;
+
+20. flex-flow: column wrap;
+
+21. align-content: flex-start;
+
+22. align-content: flex-end;
+
+23. flex-direction: column-reverse;
+align-content: center;
+
+24. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+justify-content
+
+flex-start: Items align to the left side of the container.
+flex-end: Items align to the right side of the container.
+center: Items align at the center of the container.
+space-between: Items display with equal spacing between them.
+space-around: Items display with equal spacing around them.
+
+align-items
+flex-start: Itens se alinham na parte de cima do container.
+flex-end: Itens se alinham na parte de baixo do container.
+center: Itens se alinham no centro vertical do container.
+baseline: Items se alinham na linha da base do container.
+stretch: Itens se esticam para preencher o container.
+
+flex-direction
+row: Itens são posicionados na mesma direção do texto.
+row-reverse: Itens são posicionados na direção oposta à do texto.
+column: Itens são posicionados de cima para baixo.
+column-reverse: Itens são posicionados de baixo para cima.
+
+align-content
+flex-start: Linhas são agrupadas no topo do container.
+flex-end: Linhas são agrupadas no fundo do container.
+center:Linhas são agrupadas no centro vertical do container.
+space-between: Linhas são posicionadas com espaço igual entre elas.
+space-around: Linhas são posicionadas com espaço igual em torno delas.
+stretch: Linhas se esticam para preencher o container.
