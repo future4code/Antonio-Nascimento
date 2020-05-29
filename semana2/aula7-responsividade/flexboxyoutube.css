@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+}
+
+.lista1{
+    display: grid;
+    grid-area: column;
+}
+
+.lista2{
+    display: grid;
+    grid-row: column;
+}
+
+.cabecalho{
+    background-color: red;
+    width: 1500px;
+}
+
+.bloco1azul{
+    background-color: blue;
+    grid-area: column;
+}
+
+.bloco2amarelo{
+    background-color: yellow;
+    grid-area: column;
+}
+
+.bloco3verde{
+    background-color: green;
+    grid-area: column;
+}
+
+.bloco4azul{
+    background-color: blue;
+    grid-area: column;
+}
+
+.bloco5amarelo{
+    background-color: yellow;
+    grid-area: column;
+}
+
+.bloco3verde{
+    background-color: green;
+    grid-area: column;
+}
+
+.bloco7preto{
+    background-color: black;
+    color: white;
+    grid-area: column;
+}
+
+.bloco8preto{
+    background-color: black;
+    color: white;
+    grid-area: column;
+}
+
+.bloco9branco{
+    background-color: white;
+    grid-area: column;
+}
+
+.bloco10branco{
+    background-color: white;
+    grid-area: column;
+}
+
+.bloco10branco{
+    background-color: white;
+    grid-area: column;
+}
